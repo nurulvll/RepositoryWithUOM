@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Token";
+}
+
+@model string
+
+<h2>Your JWT Token</h2>
+
+<textarea hidden id="jwtToken" rows="5" cols="80">@Model</textarea>
+
+
+<script>
+    function getData() {
+        debugger;
+        //const token = document.getElementById('jwtToken').value;
+        const token = "abc";
+
+        fetch('/Home/Privacy', {
+            headers: { 'Authorization': 'Bearer ' + token }
+        })
+            .then(response => response.text())
+            .then(data => alert(data))
+            .catch(err => alert('Error: ' + err));
+    }
+</script>
+
+<button onclick="getData()">Get Protected Data</button>

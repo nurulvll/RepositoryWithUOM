@@ -1,0 +1,12 @@
+G:\Code Practice\WebApplicationCore\Demo.Models\bin\Debug\net5.0\Demo.Models.deps.json
+G:\Code Practice\WebApplicationCore\Demo.Models\bin\Debug\net5.0\Demo.Models.dll
+G:\Code Practice\WebApplicationCore\Demo.Models\bin\Debug\net5.0\ref\Demo.Models.dll
+G:\Code Practice\WebApplicationCore\Demo.Models\bin\Debug\net5.0\Demo.Models.pdb
+G:\Code Practice\WebApplicationCore\Demo.Models\obj\Debug\net5.0\Demo.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code Practice\WebApplicationCore\Demo.Models\obj\Debug\net5.0\Demo.Models.AssemblyInfoInputs.cache
+G:\Code Practice\WebApplicationCore\Demo.Models\obj\Debug\net5.0\Demo.Models.AssemblyInfo.cs
+G:\Code Practice\WebApplicationCore\Demo.Models\obj\Debug\net5.0\Demo.Models.csproj.CoreCompileInputs.cache
+G:\Code Practice\WebApplicationCore\Demo.Models\obj\Debug\net5.0\Demo.Models.dll
+G:\Code Practice\WebApplicationCore\Demo.Models\obj\Debug\net5.0\ref\Demo.Models.dll
+G:\Code Practice\WebApplicationCore\Demo.Models\obj\Debug\net5.0\Demo.Models.pdb
+G:\Code Practice\WebApplicationCore\Demo.Models\obj\Debug\net5.0\Demo.Models.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+G:\Code Practice\WebApplicationCore\UOW\bin\Debug\net5.0\Core.deps.json
+G:\Code Practice\WebApplicationCore\UOW\bin\Debug\net5.0\Core.dll
+G:\Code Practice\WebApplicationCore\UOW\bin\Debug\net5.0\ref\Core.dll
+G:\Code Practice\WebApplicationCore\UOW\bin\Debug\net5.0\Core.pdb
+G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Core.AssemblyInfo.cs
+G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Core.dll
+G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\ref\Core.dll
+G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Core.pdb

@@ -1,0 +1,17 @@
+G:\Code Practice\WebApplicationCore\Demo.Services\bin\Debug\net5.0\Demo.Services.deps.json
+G:\Code Practice\WebApplicationCore\Demo.Services\bin\Debug\net5.0\Demo.Services.dll
+G:\Code Practice\WebApplicationCore\Demo.Services\bin\Debug\net5.0\ref\Demo.Services.dll
+G:\Code Practice\WebApplicationCore\Demo.Services\bin\Debug\net5.0\Demo.Services.pdb
+G:\Code Practice\WebApplicationCore\Demo.Services\bin\Debug\net5.0\Demo.Core.dll
+G:\Code Practice\WebApplicationCore\Demo.Services\bin\Debug\net5.0\Demo.Core.pdb
+G:\Code Practice\WebApplicationCore\Demo.Services\obj\Debug\net5.0\Demo.Services.csprojAssemblyReference.cache
+G:\Code Practice\WebApplicationCore\Demo.Services\obj\Debug\net5.0\Demo.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code Practice\WebApplicationCore\Demo.Services\obj\Debug\net5.0\Demo.Services.AssemblyInfoInputs.cache
+G:\Code Practice\WebApplicationCore\Demo.Services\obj\Debug\net5.0\Demo.Services.AssemblyInfo.cs
+G:\Code Practice\WebApplicationCore\Demo.Services\obj\Debug\net5.0\Demo.Services.csproj.CoreCompileInputs.cache
+G:\Code Practice\WebApplicationCore\Demo.Services\obj\Debug\net5.0\Demo.Services.csproj.CopyComplete
+G:\Code Practice\WebApplicationCore\Demo.Services\obj\Debug\net5.0\Demo.Services.dll
+G:\Code Practice\WebApplicationCore\Demo.Services\obj\Debug\net5.0\ref\Demo.Services.dll
+G:\Code Practice\WebApplicationCore\Demo.Services\obj\Debug\net5.0\Demo.Services.pdb
+G:\Code Practice\WebApplicationCore\Demo.Services\bin\Debug\net5.0\Demo.Models.dll
+G:\Code Practice\WebApplicationCore\Demo.Services\bin\Debug\net5.0\Demo.Models.pdb

@@ -1,0 +1,17 @@
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.AssemblyInfoInputs.cache
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.AssemblyInfo.cs
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.csproj.CoreCompileInputs.cache
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\bin\Debug\net5.0\Demo.Repostitory.deps.json
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\bin\Debug\net5.0\Demo.Repostitory.dll
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\bin\Debug\net5.0\ref\Demo.Repostitory.dll
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\bin\Debug\net5.0\Demo.Repostitory.pdb
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.dll
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\obj\Debug\net5.0\ref\Demo.Repostitory.dll
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.pdb
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\bin\Debug\net5.0\Demo.Core.dll
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\bin\Debug\net5.0\Demo.Core.pdb
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.csprojAssemblyReference.cache
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.csproj.CopyComplete
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\bin\Debug\net5.0\Demo.Models.dll
+G:\Code Practice\WebApplicationCore\Demo.Repostitory\bin\Debug\net5.0\Demo.Models.pdb
