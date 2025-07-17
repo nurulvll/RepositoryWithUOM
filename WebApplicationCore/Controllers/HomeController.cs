@@ -31,7 +31,7 @@ namespace WebApplicationCore.Controllers
             _unitOfWork = unitOfWork;
             _customerService = customerService;
         }       
-
+        //Add Comments
         public IActionResult Index()
         {
             var token = GenerateJwtToken("erp");
