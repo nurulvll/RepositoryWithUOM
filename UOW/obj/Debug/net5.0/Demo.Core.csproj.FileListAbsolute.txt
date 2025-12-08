@@ -13,3 +13,18 @@ G:\Code Practice\WebApplicationCore\UOW\bin\Debug\net5.0\Demo.Models.dll
 G:\Code Practice\WebApplicationCore\UOW\bin\Debug\net5.0\Demo.Models.pdb
 G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Demo.Core.csproj.CopyComplete
 G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Demo.Core.csproj.AssemblyReference.cache
+G:\Final\RepositoryWithUOM\UOW\bin\Debug\net5.0\Demo.Core.deps.json
+G:\Final\RepositoryWithUOM\UOW\bin\Debug\net5.0\Demo.Core.dll
+G:\Final\RepositoryWithUOM\UOW\bin\Debug\net5.0\ref\Demo.Core.dll
+G:\Final\RepositoryWithUOM\UOW\bin\Debug\net5.0\Demo.Core.pdb
+G:\Final\RepositoryWithUOM\UOW\bin\Debug\net5.0\Demo.Models.dll
+G:\Final\RepositoryWithUOM\UOW\bin\Debug\net5.0\Demo.Models.pdb
+G:\Final\RepositoryWithUOM\UOW\obj\Debug\net5.0\Demo.Core.csproj.AssemblyReference.cache
+G:\Final\RepositoryWithUOM\UOW\obj\Debug\net5.0\Demo.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Final\RepositoryWithUOM\UOW\obj\Debug\net5.0\Demo.Core.AssemblyInfoInputs.cache
+G:\Final\RepositoryWithUOM\UOW\obj\Debug\net5.0\Demo.Core.AssemblyInfo.cs
+G:\Final\RepositoryWithUOM\UOW\obj\Debug\net5.0\Demo.Core.csproj.CoreCompileInputs.cache
+G:\Final\RepositoryWithUOM\UOW\obj\Debug\net5.0\Demo.Core.csproj.CopyComplete
+G:\Final\RepositoryWithUOM\UOW\obj\Debug\net5.0\Demo.Core.dll
+G:\Final\RepositoryWithUOM\UOW\obj\Debug\net5.0\ref\Demo.Core.dll
+G:\Final\RepositoryWithUOM\UOW\obj\Debug\net5.0\Demo.Core.pdb

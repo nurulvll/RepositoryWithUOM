@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Code Practice\\WebApplicationCore\\Demo.UnitOfWork.SqlServer\\Demo.UnitOfWork.SqlServer.csproj": {}
+    "G:\\Final\\RepositoryWithUOM\\Demo.UnitOfWork.SqlServer\\Demo.UnitOfWork.SqlServer.csproj": {}
   },
   "projects": {
-    "G:\\Code Practice\\WebApplicationCore\\Demo.Models\\Demo.Models.csproj": {
+    "G:\\Final\\RepositoryWithUOM\\Demo.Models\\Demo.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Code Practice\\WebApplicationCore\\Demo.Models\\Demo.Models.csproj",
+        "projectUniqueName": "G:\\Final\\RepositoryWithUOM\\Demo.Models\\Demo.Models.csproj",
         "projectName": "Demo.Models",
-        "projectPath": "G:\\Code Practice\\WebApplicationCore\\Demo.Models\\Demo.Models.csproj",
+        "projectPath": "G:\\Final\\RepositoryWithUOM\\Demo.Models\\Demo.Models.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "G:\\Code Practice\\WebApplicationCore\\Demo.Models\\obj\\",
+        "outputPath": "G:\\Final\\RepositoryWithUOM\\Demo.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "G:\\Code Practice\\WebApplicationCore\\Demo.Repostitory\\Demo.Repostitory.csproj": {
+    "G:\\Final\\RepositoryWithUOM\\Demo.Repostitory\\Demo.Repostitory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Code Practice\\WebApplicationCore\\Demo.Repostitory\\Demo.Repostitory.csproj",
+        "projectUniqueName": "G:\\Final\\RepositoryWithUOM\\Demo.Repostitory\\Demo.Repostitory.csproj",
         "projectName": "Demo.Repostitory",
-        "projectPath": "G:\\Code Practice\\WebApplicationCore\\Demo.Repostitory\\Demo.Repostitory.csproj",
+        "projectPath": "G:\\Final\\RepositoryWithUOM\\Demo.Repostitory\\Demo.Repostitory.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "G:\\Code Practice\\WebApplicationCore\\Demo.Repostitory\\obj\\",
+        "outputPath": "G:\\Final\\RepositoryWithUOM\\Demo.Repostitory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,11 +96,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "G:\\Code Practice\\WebApplicationCore\\Demo.Models\\Demo.Models.csproj": {
-                "projectPath": "G:\\Code Practice\\WebApplicationCore\\Demo.Models\\Demo.Models.csproj"
+              "G:\\Final\\RepositoryWithUOM\\Demo.Models\\Demo.Models.csproj": {
+                "projectPath": "G:\\Final\\RepositoryWithUOM\\Demo.Models\\Demo.Models.csproj"
               },
-              "G:\\Code Practice\\WebApplicationCore\\UOW\\Demo.Core.csproj": {
-                "projectPath": "G:\\Code Practice\\WebApplicationCore\\UOW\\Demo.Core.csproj"
+              "G:\\Final\\RepositoryWithUOM\\UOW\\Demo.Core.csproj": {
+                "projectPath": "G:\\Final\\RepositoryWithUOM\\UOW\\Demo.Core.csproj"
               }
             }
           }
@@ -139,14 +139,14 @@
         }
       }
     },
-    "G:\\Code Practice\\WebApplicationCore\\Demo.UnitOfWork.SqlServer\\Demo.UnitOfWork.SqlServer.csproj": {
+    "G:\\Final\\RepositoryWithUOM\\Demo.UnitOfWork.SqlServer\\Demo.UnitOfWork.SqlServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Code Practice\\WebApplicationCore\\Demo.UnitOfWork.SqlServer\\Demo.UnitOfWork.SqlServer.csproj",
+        "projectUniqueName": "G:\\Final\\RepositoryWithUOM\\Demo.UnitOfWork.SqlServer\\Demo.UnitOfWork.SqlServer.csproj",
         "projectName": "Demo.UnitOfWork.SqlServer",
-        "projectPath": "G:\\Code Practice\\WebApplicationCore\\Demo.UnitOfWork.SqlServer\\Demo.UnitOfWork.SqlServer.csproj",
+        "projectPath": "G:\\Final\\RepositoryWithUOM\\Demo.UnitOfWork.SqlServer\\Demo.UnitOfWork.SqlServer.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "G:\\Code Practice\\WebApplicationCore\\Demo.UnitOfWork.SqlServer\\obj\\",
+        "outputPath": "G:\\Final\\RepositoryWithUOM\\Demo.UnitOfWork.SqlServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -167,11 +167,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "G:\\Code Practice\\WebApplicationCore\\Demo.Repostitory\\Demo.Repostitory.csproj": {
-                "projectPath": "G:\\Code Practice\\WebApplicationCore\\Demo.Repostitory\\Demo.Repostitory.csproj"
+              "G:\\Final\\RepositoryWithUOM\\Demo.Repostitory\\Demo.Repostitory.csproj": {
+                "projectPath": "G:\\Final\\RepositoryWithUOM\\Demo.Repostitory\\Demo.Repostitory.csproj"
               },
-              "G:\\Code Practice\\WebApplicationCore\\UOW\\Demo.Core.csproj": {
-                "projectPath": "G:\\Code Practice\\WebApplicationCore\\UOW\\Demo.Core.csproj"
+              "G:\\Final\\RepositoryWithUOM\\UOW\\Demo.Core.csproj": {
+                "projectPath": "G:\\Final\\RepositoryWithUOM\\UOW\\Demo.Core.csproj"
               }
             }
           }
@@ -214,14 +214,14 @@
         }
       }
     },
-    "G:\\Code Practice\\WebApplicationCore\\UOW\\Demo.Core.csproj": {
+    "G:\\Final\\RepositoryWithUOM\\UOW\\Demo.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Code Practice\\WebApplicationCore\\UOW\\Demo.Core.csproj",
+        "projectUniqueName": "G:\\Final\\RepositoryWithUOM\\UOW\\Demo.Core.csproj",
         "projectName": "Demo.Core",
-        "projectPath": "G:\\Code Practice\\WebApplicationCore\\UOW\\Demo.Core.csproj",
+        "projectPath": "G:\\Final\\RepositoryWithUOM\\UOW\\Demo.Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "G:\\Code Practice\\WebApplicationCore\\UOW\\obj\\",
+        "outputPath": "G:\\Final\\RepositoryWithUOM\\UOW\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -242,8 +242,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "G:\\Code Practice\\WebApplicationCore\\Demo.Models\\Demo.Models.csproj": {
-                "projectPath": "G:\\Code Practice\\WebApplicationCore\\Demo.Models\\Demo.Models.csproj"
+              "G:\\Final\\RepositoryWithUOM\\Demo.Models\\Demo.Models.csproj": {
+                "projectPath": "G:\\Final\\RepositoryWithUOM\\Demo.Models\\Demo.Models.csproj"
               }
             }
           }

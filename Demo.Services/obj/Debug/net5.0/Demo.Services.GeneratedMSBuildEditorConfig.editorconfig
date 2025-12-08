@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Demo.Services
-build_property.ProjectDir = G:\Code Practice\WebApplicationCore\Demo.Services\
+build_property.ProjectDir = G:\Final\RepositoryWithUOM\Demo.Services\
