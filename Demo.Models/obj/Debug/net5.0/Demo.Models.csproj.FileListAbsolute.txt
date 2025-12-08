@@ -9,4 +9,3 @@ G:\Code Practice\WebApplicationCore\Demo.Models\obj\Debug\net5.0\Demo.Models.csp
 G:\Code Practice\WebApplicationCore\Demo.Models\obj\Debug\net5.0\Demo.Models.dll
 G:\Code Practice\WebApplicationCore\Demo.Models\obj\Debug\net5.0\ref\Demo.Models.dll
 G:\Code Practice\WebApplicationCore\Demo.Models\obj\Debug\net5.0\Demo.Models.pdb
-G:\Code Practice\WebApplicationCore\Demo.Models\obj\Debug\net5.0\Demo.Models.csproj.AssemblyReference.cache

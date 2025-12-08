@@ -40,6 +40,7 @@ namespace WebApplicationCore.Controllers
 
         public IActionResult Token()
         {
+            //comments
             return View();
         }
 
