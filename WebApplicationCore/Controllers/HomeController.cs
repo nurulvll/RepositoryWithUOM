@@ -33,9 +33,8 @@ namespace WebApplicationCore.Controllers
         }       
         //Add Comments
         public IActionResult Index()
-        {
-            var token = GenerateJwtToken("erp");
-            return View("Token", model: token);
+        {       
+            return View();
         }
 
         public IActionResult Token()

@@ -9,7 +9,7 @@ G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Demo.Core.csproj.CoreCo
 G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Demo.Core.dll
 G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\ref\Demo.Core.dll
 G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Demo.Core.pdb
-G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Demo.Core.csprojAssemblyReference.cache
 G:\Code Practice\WebApplicationCore\UOW\bin\Debug\net5.0\Demo.Models.dll
 G:\Code Practice\WebApplicationCore\UOW\bin\Debug\net5.0\Demo.Models.pdb
 G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Demo.Core.csproj.CopyComplete
+G:\Code Practice\WebApplicationCore\UOW\obj\Debug\net5.0\Demo.Core.csproj.AssemblyReference.cache

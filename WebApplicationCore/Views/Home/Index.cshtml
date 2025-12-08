@@ -1,10 +1,13 @@
-﻿@model Demo.Models.Customer
+﻿@model Customer
+
 
 @{
     ViewData["Title"] = "Index";
     var message = ViewBag.SuccessMsg;
 }
 
+
+<h1>Index Field</h1>
 
 <div class="container-fluid">
     <div class="card">
@@ -17,58 +20,51 @@
                 &nbsp;
                 New
             </button>
-       
+
         </div>
 
     </div>
 </div>
 
 
-<div class="container-fluid">
-
-    <div class="card card-secondary">
-        <div class="card-header">
-            <h3 class="card-title">
-                List Of Data
-            </h3>
-        </div>
-
-        <div class="card-body">
-            <div class="table-responsive">
-
-                <table class="table table-bordered table-striped" style="width:100%" id="CustomerList">
-                    <thead>
-                        <tr>
-                            <th class="action"><input type="checkbox" class="chkAll" />&nbsp;Action</th>
-                            <th>Name</th>
-                            <th>Code</th>
-                            <th>Address </th>
-                            <th> Country </th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                    </tbody>
-                </table>
-
-            </div>
-        </div>
 
 
-    </div>
-</div>
+<script>
 
-@*@section scripts{
+    function submitFunction(calback) {
+        calback();
+    }
 
-    <script src="~/js/CommonService.js"></script>
-    <script src="~/js/CustomerService.js"></script>
-    <script src="~/js/CustomerController.js"></script>
+    debugger;
 
-    <script>
+    submitFunction(demoFuntion)
 
-        $(document).ready(function () {
-            CustomerController.init();
+    function demoFuntion() {
+
+        authenticateUser("john", "1234", function (success) {
+            if (success) {
+                console.log("Login successful!");
+            } else {
+                console.log("Login failed!");
+            }
         });
 
-    </script>
-}*@
+    }
+
+    function authenticateUser(username, password, callback) {
+        // Simulate async server request
+        setTimeout(() => {
+            if (username === "john" && password === "1234") {
+                callback(true);
+            } else {
+                callback(false);
+            }
+        }, 1000);
+    }
+
+
+
+</script>
+
+
 

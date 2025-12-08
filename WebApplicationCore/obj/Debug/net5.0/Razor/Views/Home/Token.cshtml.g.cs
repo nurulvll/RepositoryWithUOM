@@ -26,8 +26,15 @@ using WebApplicationCore.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "G:\Code Practice\WebApplicationCore\WebApplicationCore\Views\_ViewImports.cshtml"
+using Demo.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"508ec33779fff819af9947fa00abd238fa111bfe", @"/Views/Home/Token.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3b069ee2ce172591bf0ede1ef8abe5db3d0325b4", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"bf5665c8d402c4656f671e16ea48a0c3d4f6fd7d", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Token : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<string>
     {
         #pragma warning disable 1998

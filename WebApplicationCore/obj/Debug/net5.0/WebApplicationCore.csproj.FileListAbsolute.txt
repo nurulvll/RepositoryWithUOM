@@ -9,7 +9,6 @@ G:\Code Practice\WebApplicationCore\WebApplicationCore\bin\Debug\net5.0\ref\WebA
 G:\Code Practice\WebApplicationCore\WebApplicationCore\bin\Debug\net5.0\WebApplicationCore.pdb
 G:\Code Practice\WebApplicationCore\WebApplicationCore\bin\Debug\net5.0\WebApplicationCore.Views.dll
 G:\Code Practice\WebApplicationCore\WebApplicationCore\bin\Debug\net5.0\WebApplicationCore.Views.pdb
-G:\Code Practice\WebApplicationCore\WebApplicationCore\obj\Debug\net5.0\WebApplicationCore.csprojAssemblyReference.cache
 G:\Code Practice\WebApplicationCore\WebApplicationCore\obj\Debug\net5.0\WebApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
 G:\Code Practice\WebApplicationCore\WebApplicationCore\obj\Debug\net5.0\WebApplicationCore.AssemblyInfoInputs.cache
 G:\Code Practice\WebApplicationCore\WebApplicationCore\obj\Debug\net5.0\WebApplicationCore.AssemblyInfo.cs
@@ -157,3 +156,4 @@ G:\Code Practice\WebApplicationCore\WebApplicationCore\bin\Debug\net5.0\Microsof
 G:\Code Practice\WebApplicationCore\WebApplicationCore\bin\Debug\net5.0\Microsoft.Extensions.ObjectPool.dll
 G:\Code Practice\WebApplicationCore\WebApplicationCore\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 G:\Code Practice\WebApplicationCore\WebApplicationCore\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+G:\Code Practice\WebApplicationCore\WebApplicationCore\obj\Debug\net5.0\WebApplicationCore.csproj.AssemblyReference.cache
