@@ -36,14 +36,12 @@ namespace WebApplicationCore.Controllers
         {       
             //comments
             return View();
-            //update 
         }
 
         public IActionResult Token()
         {
             //comments last added
             return View();
-            //last update
         }
 
         [HttpGet]
