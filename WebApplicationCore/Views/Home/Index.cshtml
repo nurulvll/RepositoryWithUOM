@@ -1,71 +1,41 @@
 ﻿@model Customer
 
-
 @{
     ViewData["Title"] = "Index";
-    var message = ViewBag.SuccessMsg;
 }
-
 
 <h1>Index Field</h1>
 
 <div class="container-fluid">
     <div class="card">
-
         <div class="card-header p-2">
-            <button type="button" title="Add New Requisition"
-                    data-url="/Home/Create" onclick="GoTo(this)"
-                    id="" class="NewButton btn-lg">
-                <i class="fa fa-plus" aria-hidden="true"></i>
-                &nbsp;
-                New
+            <button type="button"
+                    data-url="/Home/Create"
+                    onclick="GoTo(this)"
+                    class="NewButton btn-lg">
+                <i class="fa fa-plus"></i> New
             </button>
-
         </div>
-
     </div>
 </div>
 
 <p>feature-login</p>
-
 <h1>main</h1>
 
-<script>
+@section Scripts {
+    <script>
+        $(function () {
 
-    function submitFunction(calback) {
-        calback();
-    }
+            var success = @Html.Raw(Json.Serialize(TempData["success"]));
+            var error = @Html.Raw(Json.Serialize(TempData["error"]));
 
-    debugger;
-
-    submitFunction(demoFuntion)
-
-    function demoFuntion() {
-
-        authenticateUser("john", "1234", function (success) {
             if (success) {
-                console.log("Login successful!");
-            } else {
-                console.log("Login failed!");
+                toastr.success(success);
+            }
+
+            if (error) {
+                toastr.error(error);
             }
         });
-
-    }
-
-    function authenticateUser(username, password, callback) {
-        // Simulate async server request
-        setTimeout(() => {
-            if (username === "john" && password === "1234") {
-                callback(true);
-            } else {
-                callback(false);
-            }
-        }, 1000);
-    }
-
-
-
-</script>
-
-
-
+    </script>
+}

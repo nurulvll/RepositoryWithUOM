@@ -33,8 +33,9 @@ namespace WebApplicationCore.Controllers
         }       
         //Add Comments
         public IActionResult Index()
-        {       
+        {
             //comments
+            TempData["success"] = "Record created successfully!";
             return View();
         }
 

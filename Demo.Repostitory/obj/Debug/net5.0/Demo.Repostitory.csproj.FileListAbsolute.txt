@@ -32,3 +32,37 @@ G:\Final\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.cs
 G:\Final\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.dll
 G:\Final\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\ref\Demo.Repostitory.dll
 G:\Final\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.pdb
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Repostitory.deps.json
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Repostitory.dll
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\ref\Demo.Repostitory.dll
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Repostitory.pdb
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Core.dll
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Models.dll
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Models.pdb
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Core.pdb
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.csproj.AssemblyReference.cache
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.GeneratedMSBuildEditorConfig.editorconfig
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.AssemblyInfoInputs.cache
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.AssemblyInfo.cs
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.csproj.CoreCompileInputs.cache
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.csproj.CopyComplete
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.dll
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\ref\Demo.Repostitory.dll
+G:\Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.pdb
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Repostitory.deps.json
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Repostitory.dll
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\ref\Demo.Repostitory.dll
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Repostitory.pdb
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Core.dll
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Models.dll
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Models.pdb
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\bin\Debug\net5.0\Demo.Core.pdb
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.csproj.AssemblyReference.cache
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.GeneratedMSBuildEditorConfig.editorconfig
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.AssemblyInfoInputs.cache
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.AssemblyInfo.cs
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.csproj.CoreCompileInputs.cache
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.csproj.CopyComplete
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.dll
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\ref\Demo.Repostitory.dll
+G:\Final Web Code\RepositoryWithUOM\Demo.Repostitory\obj\Debug\net5.0\Demo.Repostitory.pdb

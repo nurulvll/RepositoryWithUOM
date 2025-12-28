@@ -8118,11 +8118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Final\\RepositoryWithUOM\\WebApplicationCore\\WebApplicationCore.csproj",
+      "projectUniqueName": "G:\\Final Web Code\\RepositoryWithUOM\\WebApplicationCore\\WebApplicationCore.csproj",
       "projectName": "WebApplicationCore",
-      "projectPath": "G:\\Final\\RepositoryWithUOM\\WebApplicationCore\\WebApplicationCore.csproj",
+      "projectPath": "G:\\Final Web Code\\RepositoryWithUOM\\WebApplicationCore\\WebApplicationCore.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "G:\\Final\\RepositoryWithUOM\\WebApplicationCore\\obj\\",
+      "outputPath": "G:\\Final Web Code\\RepositoryWithUOM\\WebApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8143,17 +8143,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "G:\\Final\\RepositoryWithUOM\\Demo.Models\\Demo.Models.csproj": {
-              "projectPath": "G:\\Final\\RepositoryWithUOM\\Demo.Models\\Demo.Models.csproj"
+            "G:\\Final Web Code\\RepositoryWithUOM\\Demo.Models\\Demo.Models.csproj": {
+              "projectPath": "G:\\Final Web Code\\RepositoryWithUOM\\Demo.Models\\Demo.Models.csproj"
             },
-            "G:\\Final\\RepositoryWithUOM\\Demo.Services\\Demo.Services.csproj": {
-              "projectPath": "G:\\Final\\RepositoryWithUOM\\Demo.Services\\Demo.Services.csproj"
+            "G:\\Final Web Code\\RepositoryWithUOM\\Demo.Services\\Demo.Services.csproj": {
+              "projectPath": "G:\\Final Web Code\\RepositoryWithUOM\\Demo.Services\\Demo.Services.csproj"
             },
-            "G:\\Final\\RepositoryWithUOM\\Demo.UnitOfWork.SqlServer\\Demo.UnitOfWork.SqlServer.csproj": {
-              "projectPath": "G:\\Final\\RepositoryWithUOM\\Demo.UnitOfWork.SqlServer\\Demo.UnitOfWork.SqlServer.csproj"
+            "G:\\Final Web Code\\RepositoryWithUOM\\Demo.UnitOfWork.SqlServer\\Demo.UnitOfWork.SqlServer.csproj": {
+              "projectPath": "G:\\Final Web Code\\RepositoryWithUOM\\Demo.UnitOfWork.SqlServer\\Demo.UnitOfWork.SqlServer.csproj"
             },
-            "G:\\Final\\RepositoryWithUOM\\UOW\\Demo.Core.csproj": {
-              "projectPath": "G:\\Final\\RepositoryWithUOM\\UOW\\Demo.Core.csproj"
+            "G:\\Final Web Code\\RepositoryWithUOM\\UOW\\Demo.Core.csproj": {
+              "projectPath": "G:\\Final Web Code\\RepositoryWithUOM\\UOW\\Demo.Core.csproj"
             }
           }
         }
