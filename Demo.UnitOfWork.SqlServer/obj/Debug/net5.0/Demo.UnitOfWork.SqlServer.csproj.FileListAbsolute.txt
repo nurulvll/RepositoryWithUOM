@@ -36,3 +36,22 @@ G:\Final\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\obj\Debug\net5.0\Demo.UnitO
 G:\Final\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\obj\Debug\net5.0\Demo.UnitOfWork.SqlServer.dll
 G:\Final\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\obj\Debug\net5.0\ref\Demo.UnitOfWork.SqlServer.dll
 G:\Final\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\obj\Debug\net5.0\Demo.UnitOfWork.SqlServer.pdb
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\bin\Debug\net5.0\Demo.UnitOfWork.SqlServer.deps.json
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\bin\Debug\net5.0\Demo.UnitOfWork.SqlServer.dll
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\bin\Debug\net5.0\ref\Demo.UnitOfWork.SqlServer.dll
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\bin\Debug\net5.0\Demo.UnitOfWork.SqlServer.pdb
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\bin\Debug\net5.0\Demo.Core.dll
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\bin\Debug\net5.0\Demo.Models.dll
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\bin\Debug\net5.0\Demo.Repostitory.dll
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\bin\Debug\net5.0\Demo.Repostitory.pdb
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\bin\Debug\net5.0\Demo.Core.pdb
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\bin\Debug\net5.0\Demo.Models.pdb
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\obj\Debug\net5.0\Demo.UnitOfWork.SqlServer.csproj.AssemblyReference.cache
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\obj\Debug\net5.0\Demo.UnitOfWork.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\obj\Debug\net5.0\Demo.UnitOfWork.SqlServer.AssemblyInfoInputs.cache
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\obj\Debug\net5.0\Demo.UnitOfWork.SqlServer.AssemblyInfo.cs
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\obj\Debug\net5.0\Demo.UnitOfWork.SqlServer.csproj.CoreCompileInputs.cache
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\obj\Debug\net5.0\Demo.UnitOfWork.SqlServer.csproj.CopyComplete
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\obj\Debug\net5.0\Demo.UnitOfWork.SqlServer.dll
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\obj\Debug\net5.0\ref\Demo.UnitOfWork.SqlServer.dll
+G:\Final Web Code\RepositoryWithUOM\Demo.UnitOfWork.SqlServer\obj\Debug\net5.0\Demo.UnitOfWork.SqlServer.pdb
