@@ -40,11 +40,14 @@ namespace WebApplicationCore.Controllers
 
             //main
 
+            //nurul
+
             return View();
         }
 
         public IActionResult Token()
         {
+        //nurul
             //comments last added
             return View();
         }
