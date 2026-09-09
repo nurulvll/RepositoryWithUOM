@@ -40,6 +40,8 @@ namespace WebApplicationCore.Controllers
 
             //main
 
+            //nurul
+
             return View();
         }
 
