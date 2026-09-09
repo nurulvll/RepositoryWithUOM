@@ -35,7 +35,11 @@ namespace WebApplicationCore.Controllers
         public IActionResult Index()
         {       
             //comments
+
+           //admin branch
+
             //main
+
             return View();
         }
 
