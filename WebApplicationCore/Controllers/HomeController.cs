@@ -35,6 +35,7 @@ namespace WebApplicationCore.Controllers
         public IActionResult Index()
         {       
             //comments
+            //main
             return View();
         }
 
